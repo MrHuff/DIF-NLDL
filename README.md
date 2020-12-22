@@ -35,3 +35,4 @@ Depending on the name of saved models, some tinkering might be needed.
 
 "post_post_processing_script.py" outputs every numerical result to latex.
 
+"adversarial_attacks.py" generates adversarial attacks.
