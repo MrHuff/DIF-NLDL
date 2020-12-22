@@ -16,9 +16,12 @@ Make sure to modify the "dataroot" parameter for image source and "class_indicat
 
 The public datasets can be downloaded by installing "gdown" (i.e. "pip install gdown") and calling:
 
-CelebHQ: gdown https://drive.google.com/uc?id=19WmAelyLp8TA8bAnLdS6oPP1b3z7wlaz
+CelebHQ: gdown https://drive.google.com/uc?id=19WmAelyLp8TA8bAnLdS6oPP1b3z7wlaz 
+
 Fashion: gdown https://drive.google.com/uc?id=1Mxn3Jf1uYozgNa1AAXNXHLzaL6tfQpTI
+
 MNIST: gdown https://drive.google.com/uc?id=12b-PTIKoCOOUNBMq0Y7B3itUtkJ26ebC
+
 COVID-19: gdown https://drive.google.com/uc?id=1kpjRm-KWWiffaOYbULsKLIYYJPflmaBx
 
 These datasets are already preprocessed and can be trained on directly after unzipping them.
